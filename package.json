@@ -1,0 +1,26 @@
+{
+  "name": "milesforangularjs",
+  "version": "1.0.0",
+  "description": "Miles For AngularJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theusdido/milesforangularjs.git"
+  },
+  "keywords": [
+    "miles",
+    "erp",
+    "website",
+    "e-ecommerce",
+    "sistema"
+  ],
+  "author": "= <theusdido@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theusdido/milesforangularjs/issues"
+  },
+  "homepage": "https://github.com/theusdido/milesforangularjs#readme"
+}
