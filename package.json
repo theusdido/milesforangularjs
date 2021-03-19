@@ -1,6 +1,6 @@
 {
   "name": "milesforangularjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Miles For AngularJS",
   "main": "src/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "e-ecommerce",
     "sistema"
   ],
-  "author": "= <theusdido@hotmail.com>",
+  "author": "Edilson Bitencourt",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/theusdido/milesforangularjs/issues"
